@@ -1,0 +1,302 @@
+[
+  {
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "Domino's"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "Domino's"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "Domino's"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "Domino's"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "Domino's"
+  }, 
+{
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "Pizza Hut"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "Pizza Hut"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "Pizza Hut"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "Pizza Hut"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "Pizza Hut"
+  }, 
+  {
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "Little Caesars Pizza"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "Little Caesars Pizza"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "Little Caesars Pizza"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "Little Caesars Pizza"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "Little Caesars Pizza"
+  }, 
+ {
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "Papa John’s"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "Papa John’s"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "Papa John’s"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "Papa John’s"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "Papa John’s"
+  }, 
+{
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "California Pizza"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "California Pizza"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "California Pizza"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "California Pizza"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "California Pizza"
+  }, 
+  {
+    "ProName": "Pepperoni Pizza",
+    "GraName": "Pep",
+    "Cost": "15.55",
+    "MSRP": "12.22",
+    "QtyOnHand" : "15",
+    "QtyOnBackOrder": "10",
+    "Description": "Pepperoni Pizza is a classic and flavorful dish loved by pizza enthusiasts worldwide. It features a crispy, thin or thick crust topped with zesty tomato sauce, gooey mozzarella cheese, and a generous amount of savory pepperoni slices. With its perfect blend of tangy, spicy, and cheesy flavors, Pepperoni Pizza is a timeless favorite that satisfies cravings and delivers a slice of pure deliciousness",
+    "BRAND": "Pizza Ranch"
+  }, 
+  {
+    "ProName": "Chess Pizza",
+    "GraName": "Chess",
+    "Cost": "12.55",
+    "MSRP": "10.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "7",
+    "Description": "Cheese Pizza is a timeless classic that celebrates simplicity and the love for cheese. It starts with a freshly baked crust, topped with a rich and tangy tomato sauce, and generously covered with a melty blend of mozzarella and other cheeses. The result is a heavenly combination of gooey, stretchy cheese and a comforting tomato base, making Cheese Pizza a universally beloved choice for pizza enthusiasts of all ages.",
+    "BRAND": "Pizza Ranch"
+  }, 
+  {
+    "ProName": "Beef Pizza",
+    "GraName": "Beef",
+    "Cost": "17.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Indulge in the savory delight of our Beef Pizza. Topped with tender, seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses, this pizza offers a robust flavor that meat lovers will adore. Satisfyingly rich and hearty, every bite is a carnivorous delight. Treat yourself to the savory goodness of our Beef Pizza today",
+    "BRAND": "Pizza Ranch"
+  }, 
+   {
+    "ProName": "Buffalo Pizza",
+    "GraName": "Buffalo",
+    "Cost": "19.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "13",
+    "QtyOnBackOrder": "7",
+    "Description": "Experience a spicy and tangy twist with our Buffalo Pizza. Inspired by the iconic Buffalo chicken flavor, this pizza features tender pieces of buffalo chicken, drizzled with zesty buffalo sauce, and topped with a blend of melted cheeses. The combination of heat and tanginess creates a mouthwatering and bold flavor profile that is sure to satisfy your cravings. Add a touch of blue cheese or ranch dressing for an extra burst of creaminess. Get ready to enjoy the fiery and delicious Buffalo Pizza.",
+    "BRAND": "Pizza Ranch"
+  }, 
+{
+    "ProName": "Margherita  Pizza",
+    "GraName": "Margherita ",
+    "Cost": "14.55",
+    "MSRP": "13.22",
+    "QtyOnHand" : "12",
+    "QtyOnBackOrder": "8",
+    "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
+    "BRAND": "Pizza Ranch"
+  }
+]
