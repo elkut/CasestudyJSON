@@ -9,7 +9,7 @@
     "QtyOnBackOrder": "10",
     "Description": "Classic pizza with zesty tomato sauce, gooey mozzarella cheese, and savory pepperoni slices.",
     "BRAND": "Domino's",
-    "graphicName": "pepperoni_pizza.jpg"
+    "gName": "pepperoni_pizza.jpg"
   },
   {
     "Id": "2",
@@ -21,7 +21,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Timeless classic with rich tomato sauce, melty blend of cheeses, and a freshly baked crust.",
     "BRAND": "Domino's",
-    "graphicName": "cheese_pizza.jpg"
+    "gName": "cheese_pizza.jpg"
   },
   {
     "Id": "3",
@@ -33,7 +33,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Savory delight with seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses.",
     "BRAND": "Domino's",
-    "graphicName": "beef_pizza.jpg"
+    "gName": "beef_pizza.jpg"
   },
   {
     "Id": "4",
@@ -45,7 +45,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Spicy and tangy twist with tender buffalo chicken, zesty buffalo sauce, and melted cheeses.",
     "BRAND": "Domino's",
-    "graphicName": "buffalo_pizza.jpg"
+    "gName": "buffalo_pizza.jpg"
   },
   {
     "Id": "5",
@@ -57,7 +57,7 @@
     "QtyOnBackOrder": "8",
     "Description": "Authentic flavors of Italy with thin crust, tomato sauce, basil, and creamy mozzarella cheese.",
     "BRAND": "Domino's",
-    "graphicName": "margherita_pizza.jpg"
+    "gName": "margherita_pizza.jpg"
   },
   {
     "Id": "6",
@@ -69,7 +69,7 @@
     "QtyOnBackOrder": "10",
     "Description": "Classic pizza with zesty tomato sauce, gooey mozzarella cheese, and savory pepperoni slices.",
     "BRAND": "Pizza Hut",
-    "graphicName": "pepperoni_pizza.jpg"
+    "gName": "pepperoni_pizza.jpg"
   },
   {
     "Id": "7",
@@ -81,7 +81,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Timeless classic with rich tomato sauce, melty blend of cheeses, and a freshly baked crust.",
     "BRAND": "Pizza Hut",
-    "graphicName": "cheese_pizza.jpg"
+    "gName": "cheese_pizza.jpg"
   },
   {
     "Id": "8",
@@ -93,7 +93,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Savory delight with seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses.",
     "BRAND": "Pizza Hut",
-    "graphicName": "beef_pizza.jpg"
+    "gName": "beef_pizza.jpg"
   },
   {
     "Id": "9",
@@ -105,7 +105,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Spicy and tangy twist with tender buffalo chicken, zesty buffalo sauce, and melted cheeses.",
     "BRAND": "Pizza Hut",
-    "graphicName": "buffalo_pizza.jpg"
+    "gName": "buffalo_pizza.jpg"
   },
   {
     "Id": "10",
@@ -117,7 +117,7 @@
     "QtyOnBackOrder": "8",
     "Description": "Authentic flavors of Italy with thin crust, tomato sauce, basil, and creamy mozzarella cheese.",
     "BRAND": "Pizza Hut",
-    "graphicName": "margherita_pizza.jpg"
+    "gName": "margherita_pizza.jpg"
   },
   {
     "Id": "11",
@@ -129,7 +129,7 @@
     "QtyOnBackOrder": "10",
     "Description": "Classic pizza with zesty tomato sauce, gooey mozzarella cheese, and savory pepperoni slices.",
     "BRAND": "Little Caesars Pizza",
-    "graphicName": "pepperoni_pizza.jpg"
+    "gName": "pepperoni_pizza.jpg"
   },
   {
     "Id": "12",
@@ -141,7 +141,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Timeless classic with rich tomato sauce, melty blend of cheeses, and a freshly baked crust.",
     "BRAND": "Little Caesars Pizza",
-    "graphicName": "cheese_pizza.jpg"
+    "gName": "cheese_pizza.jpg"
   },
   {
     "Id": "13",
@@ -153,7 +153,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Savory delight with seasoned beef, onions, bell peppers, and a perfect blend of melted cheeses.",
     "BRAND": "Little Caesars Pizza",
-    "graphicName": "beef_pizza.jpg"
+    "gName": "beef_pizza.jpg"
   },
   {
     "Id": "14",
@@ -165,7 +165,7 @@
     "QtyOnBackOrder": "7",
     "Description": "Spicy and tangy twist with tender buffalo chicken, zesty buffalo sauce, and melted cheeses.",
     "BRAND": "Little Caesars Pizza",
-    "graphicName": "buffalo_pizza.jpg"
+    "gName": "buffalo_pizza.jpg"
   },
   {
     "Id": "15",
@@ -177,6 +177,6 @@
     "QtyOnBackOrder": "8",
     "Description": "Savor the simplicity and timeless appeal of our Margherita Pizza. Crafted with traditional Italian flavors, this pizza showcases the perfect harmony of fresh ingredients. Our thin crust is topped with vibrant tomato sauce, slices of ripe tomatoes, fragrant basil leaves, and a generous amount of creamy mozzarella cheese. Baked to perfection, every bite of this classic pizza is a delightful combination of tangy tomato, aromatic basil, and gooey melted cheese. Indulge in the authentic flavors of Italy with our Margherita Pizza.",
     "BRAND": "Pizza Ranch",
-    "graphicName": "margherita_pizza.jpg"
+    "gName": "margherita_pizza.jpg"
   }
 ]
